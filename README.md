@@ -1,11 +1,8 @@
 # Using Retrofit with Kotlin Coroutines in Android: Sample App
-[![MindOrks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
-[![MindOrks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
+
 
 This repository contains a sample app that implements MVVM architecture using Kotlin, ViewModel, Retrofit, Coroutines and etc.
-<p align="center">
-  <img src="https://github.com/MindorksOpenSource/Retrofit-Kotlin-Coroutines-Example/blob/master/assets/retrofit-kotlin-coroutines-banner.png">
-</p>
+
 <br>
 <br>
 <p align="center">
